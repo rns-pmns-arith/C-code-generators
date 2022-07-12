@@ -9,4 +9,4 @@ The directory 'AVX512_CCodes_gen' contains a C codes generator, which takes adva
 
 <br />
 <br />
-Note : All these generators have been implmented using SageMath library which can be found here: http://www.sagemath.org/
+Note : All these generators have been implemented using SageMath library which can be found here: http://www.sagemath.org/
